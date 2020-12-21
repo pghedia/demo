@@ -9,3 +9,8 @@ To learn more
 
 ## Contribute
 No contributions expected at this point
+
+
+## local Development
+
+1. open index.html in your browser
